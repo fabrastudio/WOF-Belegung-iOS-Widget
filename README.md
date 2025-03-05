@@ -1,6 +1,6 @@
 # WOF Belegung Widget
 
-Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios.
+Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios (World of Fitness).
 
 ![Widget Vorschau](widget-preview.png)
 
