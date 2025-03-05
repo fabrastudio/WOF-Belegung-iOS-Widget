@@ -1,6 +1,6 @@
 # WOF Belegung Widget
 
-Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios (World of Fitness).
+Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios.
 
 ![Widget Vorschau](widget-preview.png)
 
@@ -74,6 +74,14 @@ Falls das Widget keine Daten anzeigt:
 - Optimiertes Layout für verschiedene Widget-Größen
 - Cache-Management mit automatischer Bereinigung
 
-## Lizenz
+## Rechtliche Hinweise und Lizenz
 
-Dieses Skript ist für den persönlichen Gebrauch bestimmt. 
+Dieses Skript ist für den persönlichen Gebrauch bestimmt.
+
+**Wichtiger Hinweis**: Dies ist **kein offizielles Produkt der Corpora Fitness GmbH & Co.KG** (Betreiber der WOF Fitnessstudios). Es handelt sich um ein inoffizielles, von Fans entwickeltes Tool, das öffentlich zugängliche Daten der WOF-Website verwendet.
+
+Die Bezeichnung "WOF" und alle damit verbundenen Marken, Logos und Namen sind Eigentum der Corpora Fitness GmbH & Co.KG. Die Verwendung dieser Bezeichnungen in diesem Skript dient ausschließlich zu Identifikationszwecken.
+
+### Haftungsausschluss
+
+Dieses Skript wird ohne jegliche Gewährleistung bereitgestellt. Die Entwickler übernehmen keine Haftung für etwaige Schäden, die durch die Nutzung dieses Skripts entstehen könnten. Die Genauigkeit und Verfügbarkeit der angezeigten Daten hängt von der WOF-Website ab. 
