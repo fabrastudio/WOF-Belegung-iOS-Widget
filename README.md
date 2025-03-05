@@ -2,12 +2,13 @@
 
 Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios.
 
-![Widget Vorschau](widget-preview.png)
+![Widget Vorschau light](widget-preview-light.png)
+![Widget Vorschau dark](widget-preview-dark.png)
 
 ## Funktionen
 
 - Abrufen und Anzeigen der aktuellen Belegungsdaten von WOF Fitnessstudios
-- Unterstützung für mehrere Studiofilialen (bis zu 5)
+- Unterstützung für mehrere Studiofilialen (bis zu 3)
 - Farbkodierung der Belegungsanzeige (grün, orange, rot) basierend auf dem Prozentsatz
 - Offline-Modus mit Caching für Zeiten ohne Internetverbindung
 - Automatische Aktualisierung der Daten alle 15 Minuten
