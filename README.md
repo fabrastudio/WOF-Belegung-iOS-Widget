@@ -18,7 +18,7 @@ Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios.
 
 1. Lade die [Scriptable App](https://apps.apple.com/de/app/scriptable/id1405459188) aus dem App Store herunter
 2. Öffne Scriptable und erstelle ein neues Skript
-3. Kopiere den Inhalt von `WOF Belegung v0.6.0.js` in das neue Skript
+3. Kopiere den Inhalt von `WOF Belegung v0.1.0.js` in das neue Skript
 4. Gib dem Skript einen Namen (z.B. "WOF Belegung")
 5. Füge das Widget zum Homescreen hinzu
 
@@ -77,9 +77,9 @@ Falls das Widget keine Daten anzeigt:
 
 ## Rechtliche Hinweise und Lizenz
 
-Dieses Skript ist für den persönlichen Gebrauch bestimmt.
+Dieses Skript ist ausschließlich für den persönlichen Gebrauch bestimmt.
 
-**Wichtiger Hinweis**: Dies ist **kein offizielles Produkt der Corpora Fitness GmbH & Co.KG** (Betreiber der WOF Fitnessstudios). Es handelt sich um ein inoffizielles, von Fans entwickeltes Tool, das öffentlich zugängliche Daten der WOF-Website verwendet.
+**Wichtiger Hinweis**: Dies ist **kein offizielles Produkt der Corpora Fitness GmbH & Co.KG** (Betreiber der WOF Fitnessstudios). Es handelt sich um ein inoffizielles Tool, das öffentlich zugängliche Daten der WOF-Website verwendet.
 
 Die Bezeichnung "WOF" und alle damit verbundenen Marken, Logos und Namen sind Eigentum der Corpora Fitness GmbH & Co.KG. Die Verwendung dieser Bezeichnungen in diesem Skript dient ausschließlich zu Identifikationszwecken.
 
