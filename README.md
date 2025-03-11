@@ -1,14 +1,14 @@
 # WOF Belegung Widget
 
-Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios.
+Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios (World of Fitness).
 
 ![Widget Vorschau light](widget-preview-light.png)
 ![Widget Vorschau dark](widget-preview-dark.png)
 
 ## Funktionen
 
-- Abrufen und Anzeigen der aktuellen Belegungsdaten von WOF Fitnessstudios
-- Unterstützung für mehrere Studiofilialen (bis zu 3)
+- Abrufen und Anzeigen der aktuellen Belegungsdaten von WOF Fitnessstudios über die WOF-Webseite (https://app.wof.de/besucher/)
+- Unterstützung für mehrere Studios (bis zu 3)
 - Farbkodierung der Belegungsanzeige (grün, orange, rot) basierend auf dem Prozentsatz
 - Offline-Modus mit Caching für Zeiten ohne Internetverbindung
 - Automatische Aktualisierung der Daten alle 15 Minuten
@@ -18,7 +18,7 @@ Ein Scriptable-Widget zur Anzeige der aktuellen Belegung der WOF Fitnessstudios.
 
 1. Lade die [Scriptable App](https://apps.apple.com/de/app/scriptable/id1405459188) aus dem App Store herunter
 2. Öffne Scriptable und erstelle ein neues Skript
-3. Kopiere den Inhalt von `WOF Belegung v0.1.0.js` in das neue Skript
+3. Kopiere den Inhalt von `WOF Belegung v0.6.0.js` in das neue Skript
 4. Gib dem Skript einen Namen (z.B. "WOF Belegung")
 5. Füge das Widget zum Homescreen hinzu
 
@@ -53,7 +53,7 @@ const config = {
 
 ## Cache-Management
 
-- Die Daten werden lokal auf dem Gerät gespeichert
+- Die Daten werden lokal auf dem Gerät bzw. in der eigenen iCloud gespeichert
 - Cache wird automatisch aktualisiert alle 15 Minuten
 - Cache-Einträge älter als 7 Tage werden automatisch gelöscht
 - Im Offline-Modus werden die letzten bekannten Daten angezeigt (max. 60 Minuten alt)
